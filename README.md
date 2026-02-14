@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Poseidon-18
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning python,java
+- 🌱 I’m currently learning different languages and trying to get better in them.
  
-- 💞️ I’m looking to collaborate on anything , want to learn
-- 📫 How to reach me: mail
+- 💞️ I’m looking to collaborate on anything i find interesting or something that might help me learn, as thats my primary focus
+- 📫 How to reach me: mai
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
